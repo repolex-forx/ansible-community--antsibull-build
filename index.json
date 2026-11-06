@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "antsibull-build",
+  "versions": [
+    {
+      "commit": "07cf159abd4f73b53603195c70a5fffe16255382",
+      "tag": "",
+      "parsed_at": "2026-11-06T16:03:30.619930+00:00"
+    }
+  ]
+}
